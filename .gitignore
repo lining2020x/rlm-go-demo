@@ -1,0 +1,5 @@
+*.o
+_output/
+bin/
+.vscode
+.idea
